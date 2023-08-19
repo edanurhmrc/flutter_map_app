@@ -1,0 +1,17 @@
+com.sibernetik.map_module.app-jetified-window-1.0.0-beta04-0 C:\Users\Eda\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.sibernetik.map_module.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Eda\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.sibernetik.map_module.app-core-1.6.0-2 C:\Users\Eda\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.sibernetik.map_module.app-jetified-play-services-base-18.0.1-3 C:\Users\Eda\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.sibernetik.map_module.app-jetified-window-java-1.0.0-beta04-4 C:\Users\Eda\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.sibernetik.map_module.app-jetified-play-services-maps-18.1.0-5 C:\Users\Eda\.gradle\caches\transforms-3\d7f7973f000d5c8945a05a4db1417b66\transformed\jetified-play-services-maps-18.1.0\res
+com.sibernetik.map_module.app-jetified-play-services-basement-18.0.0-6 C:\Users\Eda\.gradle\caches\transforms-3\f64fba6e6efbe26a4b67f791bcfc957f\transformed\jetified-play-services-basement-18.0.0\res
+com.sibernetik.map_module.app-debug-7 C:\Users\Eda\StudioProjects\Flutter\map_module\android\app\src\debug\res
+com.sibernetik.map_module.app-main-8 C:\Users\Eda\StudioProjects\Flutter\map_module\android\app\src\main\res
+com.sibernetik.map_module.app-pngs-9 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\generated\res\pngs\debug
+com.sibernetik.map_module.app-resValues-10 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\generated\res\resValues\debug
+com.sibernetik.map_module.app-rs-11 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\generated\res\rs\debug
+com.sibernetik.map_module.app-mergeDebugResources-12 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.sibernetik.map_module.app-mergeDebugResources-13 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.sibernetik.map_module.app-merged_res-14 C:\Users\Eda\StudioProjects\Flutter\map_module\build\app\intermediates\merged_res\debug
+com.sibernetik.map_module.app-packaged_res-15 C:\Users\Eda\StudioProjects\Flutter\map_module\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.sibernetik.map_module.app-packaged_res-16 C:\Users\Eda\StudioProjects\Flutter\map_module\build\google_maps_flutter_android\intermediates\packaged_res\debug
