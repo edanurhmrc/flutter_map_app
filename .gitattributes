@@ -1,2 +1,2 @@
 * linguist-vendored
-*.dart linguist-vendored=false
+*Makefile linguist-vendored=true
