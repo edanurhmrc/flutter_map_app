@@ -1,2 +1,7 @@
 * linguist-vendored
-*Makefile linguist-vendored=true
+*.dart linguist-vendored=false
+*.cpp linguist-vendored=false
+*.swift linguist-vendored=false
+*.html linguist-vendored=false
+*.c linguist-vendored=false
+*.txt linguist-vendored=false
